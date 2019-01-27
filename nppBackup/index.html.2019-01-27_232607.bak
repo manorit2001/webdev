@@ -1,0 +1,16 @@
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+$(document).ready(function(){
+	$("#button1").click(function(){
+		#("p").fadeOut("slow")
+	}
+
+}
+</script>
+</head>
+<body>
+<input type="button" id="button1">click here</input>
+<p>this will toggle when you click the above button</p>
+</body>
+</html>
