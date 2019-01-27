@@ -1,8 +1,0 @@
-<html>
-<head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-</head>
-<body>
-<input type="button" id="button1">click here</input>
-</body>
-</html>
